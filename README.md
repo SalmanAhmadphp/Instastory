@@ -1,1 +1,1 @@
-# InstaStory.JS
+# InstaFeature.JS
